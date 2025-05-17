@@ -1,0 +1,10 @@
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Login
+email-validator
+python-dotenv
+requests
+beautifulsoup4
+selenium
+pymysql
